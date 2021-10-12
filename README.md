@@ -12,6 +12,15 @@ Click on the button to get a new saying.
 
 ## How It's Made:
 
-**Tech used:** HTML, CSS, JavaScript
+**Tech used:** HTML5, CSS3, JavaScript ES6+
 
 **APIs used:** Kanye REST API https://kanye.rest/
+
+## Optimizations
+
+* Add styling to the site
+* Add animations to the text and button
+
+## Lessons Learned:
+
+I learned how to fetch from a basic API to receive various Kanye quotes. It taught me where to put the URL for the fetch request and how to locate the data within the object.
